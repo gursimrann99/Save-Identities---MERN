@@ -1,0 +1,13 @@
+body {
+   text-align: center;
+   padding: 5px; 
+}
+
+.link {
+   position: absolute;
+   left: 30px;
+   top: 30px;
+}
+.file {
+   cursor: pointer;
+}
